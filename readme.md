@@ -1,4 +1,7 @@
-![Repository Banner](headerimage.png)
+<p align="center">
+    <img src="headerimage.png" alt="Web Resource Header" width="100%" height="200" />
+</p>
+
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
